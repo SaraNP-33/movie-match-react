@@ -1,8 +1,6 @@
 const { Schema, model } = require('mongoose');
 const bcrypt = require('bcrypt');
 
-// import schema from Book.js
-const bookSchema = require('./Book');
 
 const userSchema = new Schema(
   {
@@ -21,9 +19,6 @@ const userSchema = new Schema(
       type: String,
       required: true,
     },
-  },
-  // set this to use virtual below
-  {
    
   }
 );
