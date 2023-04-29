@@ -1,0 +1,23 @@
+{
+  "name": "movie-match-react",
+  "version": "1.0.0",
+  "description": "react, GraphQL, MongoD, ChakraUI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaraNP-33/movie-match-react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaraNP-33/movie-match-react/issues"
+  },
+  "homepage": "https://github.com/SaraNP-33/movie-match-react#readme",
+  "dependencies": {
+    "concurrently": "^8.0.1"
+  }
+}
